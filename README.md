@@ -1,16 +1,18 @@
-### Hi there 👋
+Hello, World! I'm Chayenne, but you can call me Chay 🔮
 
-<!--
-**chagasdecastro/chagasdecastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- A biologist with interest in front-end 🌱
+- Currently learning HTML, CSS and JavaScript
 
-Here are some ideas to get you started:
+Let's be friends!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<div align="center">
+  <a href="https://github.com/chagasdecastro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chagasdecastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+</div>
+  
+<hr>
+<div>
+  ![Snake animation](https://github.com/chagasdecastro/chagasdecastro/blob/output/github-contribution-grid-snake.svg)
+<div>
