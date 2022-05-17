@@ -13,6 +13,5 @@ Let's be friends!
 </div>
   
 <hr>
-<div>
-  ![Snake animation](https://github.com/chagasdecastro/chagasdecastro/blob/output/github-contribution-grid-snake.svg)
-<div>
+
+![Snake animation](https://github.com/chagasdecastro/blob/output/github-contribution-grid-snake.svg)
