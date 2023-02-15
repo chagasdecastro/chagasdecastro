@@ -1,4 +1,4 @@
-Hello, World! I'm Chayenne, but you can call me Chay 🔮
+Hello, World! I'm Chayenne, but you can call me chay 🔮
 
 - a biologist with interest in web development 🌱
 - systems analysis and development student
