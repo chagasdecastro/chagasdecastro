@@ -1,7 +1,8 @@
 Hello, World! I'm Chayenne, but you can call me Chay 🔮
 
-- A biologist with interest in front-end 🌱
-- Currently learning HTML, CSS and JavaScript
+- a biologist with interest in web development 🌱
+- systems analysis and development student
+- currently learning HTML, CSS and JavaScript
 
 Let's be friends!
 
