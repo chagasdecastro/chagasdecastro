@@ -2,7 +2,9 @@ Hello, World! I'm Chayenne, but you can call me chay 🔮
 
 - a biologist with interest in web development 🌱
 - systems analysis and development student
-- currently learning HTML, CSS, JavaScript and Python 
+- currently learning HTML, CSS, JavaScript and Python
+  
+![](https://github.com/chagasdecastro/chagasdecastro/blob/main/Untitled_Artwork.gif)
 
 Let's be friends!
 
