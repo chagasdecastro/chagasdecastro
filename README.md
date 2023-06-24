@@ -3,7 +3,6 @@ Hello, world! I'm Chayenne, but you can call me chay 🔮
 - a biologist with a lot of curiosity about everything
 - analysis and systems development studant
 - currently learning HTML, CSS, JavaScript and Python
-- coffee, marine biology, cloud and yoga
   
 ![](https://github.com/chagasdecastro/chagasdecastro/blob/main/Untitled_Artwork.gif)
 
