@@ -1,8 +1,8 @@
 Hello, World! I'm Chayenne, but you can call me chay 🔮
 
-- a biologist with a lot of curiosity about everything 🌱
-- analysis and systems development studant 💻
-- currently learning HTML, CSS, JavaScript and Python 🐍 
+🌱 a biologist with a lot of curiosity about everything
+💻 analysis and systems development studant
+🐍 currently learning HTML, CSS, JavaScript and Python
   
 ![](https://github.com/chagasdecastro/chagasdecastro/blob/main/Untitled_Artwork.gif)
 
