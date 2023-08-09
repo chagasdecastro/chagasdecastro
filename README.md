@@ -8,7 +8,7 @@ Hello, World! I'm Chayenne, but you can call me chay...
     analysis and systems development studant 💻
   </li>
   <li>
-    currently learning HTML, CSS, JavaScript and Python 🐍
+    currently learning HTML, CSS, JavaScript and Cloud ☁️
   </li>
 </ul>
   
