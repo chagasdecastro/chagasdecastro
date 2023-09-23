@@ -8,7 +8,7 @@ Hello, World! I'm Chayenne, but you can call me chay...
     undergraduate student in computing (IFTM)
   </li>
   <li>
-    analysis and systems development student 💻
+    also analysis and systems development student 💻
   </li>
   <li>
     currently learning CSS, JavaScript, Python and Cloud ☁️
