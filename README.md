@@ -11,7 +11,7 @@ Hello, World! I'm Chayenne, but you can call me chay...
     analysis and systems development student 💻
   </li>
   <li>
-    currently learning HTML, CSS, JavaScript and Cloud ☁️
+    currently learning CSS, JavaScript, Python and Cloud ☁️
   </li>
 </ul>
   
