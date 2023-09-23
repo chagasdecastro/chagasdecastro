@@ -5,6 +5,9 @@ Hello, World! I'm Chayenne, but you can call me chay...
     a biologist with a lot of curiosity about everything 🌱
   </li>
   <li>
+    undergraduate student in computing (IFTM)
+  </li>
+  <li>
     analysis and systems development studant 💻
   </li>
   <li>
