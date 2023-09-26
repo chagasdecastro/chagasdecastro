@@ -13,6 +13,9 @@
   <li>
     currently learning CSS, JavaScript, Python and Cloud (aws) ☁️
   </li>
+  <li>
+    coffee, fungi world, open source, illustration, yoga
+  </li>
 </ul>
   
 ![](https://github.com/chagasdecastro/chagasdecastro/blob/main/Untitled_Artwork.gif)
