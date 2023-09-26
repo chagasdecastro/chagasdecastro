@@ -11,7 +11,7 @@
     also systems development & analysis student 💻
   </li>
   <li>
-    currently learning CSS, JavaScript, Python and Cloud (AWS) ☁️
+    currently learning CSS, JavaScript, Python and Cloud (aws) ☁️
   </li>
 </ul>
   
