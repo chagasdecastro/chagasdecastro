@@ -2,16 +2,16 @@ Hello, World! I'm Chayenne, but you can call me chay...
 
 <ul>
   <li>
-    a biologist with a lot of curiosity about everything 🌱
+    a biology scientist with a lot of curiosity about  e v e r y t h i n g 🍄
   </li>
   <li>
-    undergraduate student in computing (IFTM)
+    undergraduate student in computing at IFTM 👩‍💻
   </li>
   <li>
-    also analysis and systems development student 💻
+    also systems development & analysis student 💻
   </li>
   <li>
-    currently learning CSS, JavaScript, Python and Cloud ☁️
+    currently learning CSS, JavaScript, Python and Cloud (AWS) ☁️
   </li>
 </ul>
   
