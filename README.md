@@ -1,4 +1,4 @@
-<h5 color="green"> Hello, World! I'm Chayenne, but you can call me chay... </h5>
+<h5> Hello, World! I'm Chayenne, but you can call me chay... </h5>
 
 <ul>
   <li>
