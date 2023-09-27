@@ -14,7 +14,7 @@
     currently learning CSS, JavaScript, Python and Cloud (aws) ☁️
   </li>
   <li>
-    coffee, fungi world, open source, illustration, yoga
+    coffee, open source, fungi world, illustration, yoga
   </li>
 </ul>
   
