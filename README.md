@@ -2,7 +2,7 @@
 
 <ul>
   <li>
-    a biology scientist with a lot of curiosity about   e v e r y t h i n g 🍄
+    a biology scientist graduated at UFLA with a lot of curiosity about   e v e r y t h i n g 🍄
   </li>
   <li>
     undergraduate student in computing at IFTM 👩‍💻
