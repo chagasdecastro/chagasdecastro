@@ -1,4 +1,4 @@
-<p> Hello, World! I'm Chayenne, but you can call me chay... </p>
+<p> Hello, World! Welcome to my github! </p>
 
 <ul>
   <li>
