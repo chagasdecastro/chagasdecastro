@@ -2,19 +2,19 @@
 
 <ul>
   <li>
-    a biology scientist graduated at UFLA with a lot of curiosity about   e v e r y t h i n g 🍄
+    a biology scientist graduated at UFLA 🍄
   </li>
   <li>
     undergraduate student in computing at IFTM 👩‍💻
   </li>
   <li>
-    also systems development & analysis student 💻
+    also systems development & analysis student at Wyden 💻
   </li>
   <li>
     currently learning CSS, JavaScript, Python and Cloud (aws) ☁️
   </li>
   <li>
-    coffee, open source, fungi world, illustration, yoga
+    coffee, fungi world, illustration
   </li>
 </ul>
   
