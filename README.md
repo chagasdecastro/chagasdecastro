@@ -8,7 +8,7 @@
     systems development & analysis student at Wyden 👩‍💻
   </li>
   <li>
-    currently learning CSS, JavaScript, Python and Cloud (aws) ☁️
+    currently learning JavaScript, Python and Cloud (aws) ☁️
   </li>
   <li>
     coffee, fungi world, illustration
