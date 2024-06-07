@@ -1,14 +1,14 @@
-<p> Hello, World! Welcome to my github! </p>
+<p> hello, world! welcome to my github! </p>
 
 <ul>
   <li>
-    a biology scientist graduated at UFLA. 🍄
+    a biology scientist graduated at UFLA 🍄
   </li>
   <li>
-    computing student at UFJF & systems analysis and development student at Wyden. 💻
+    computing student at UFJF & systems analysis and development student at Wyden 💻
   </li>
   <li>
-    interested in data analysis, Python, and cloud computing. ☁️
+    interested in data analysis, Python, and cloud computing ☁️
   </li>
   <li>
     coffee, illustration, yoga & language enthusiast
