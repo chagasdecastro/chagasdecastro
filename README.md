@@ -8,7 +8,7 @@
     computing student at UFJF & systems analysis and development student at Wyden 💻
   </li>
   <li>
-    interested in data analysis, Python, and cloud computing ☁️
+    interested in data analysis, python, and cloud computing ☁️
   </li>
   <li>
     coffee, illustration, yoga & language enthusiast
