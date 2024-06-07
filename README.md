@@ -2,22 +2,20 @@
 
 <ul>
   <li>
-    a biology scientist graduated at UFLA 🍄
+    a biology scientist graduated at UFLA. 🍄
   </li>
   <li>
-    systems development & analysis student at Wyden & computacion at UFJF👩‍💻
+    computing student at UFJF & systems analysis and development student at Wyden. 💻
   </li>
   <li>
-    currently learning JavaScript, Python and Cloud (aws) ☁️
+    interested in data analysis, Python, and cloud computing. ☁️
   </li>
   <li>
-    coffee, fungi world, illustration
+    coffee, illustration, yoga & language enthusiast
   </li>
 </ul>
   
 ![](https://github.com/chagasdecastro/chagasdecastro/blob/main/Untitled_Artwork.gif)
-
-Let's be friends!
 
 <div align="center">
   <a href="https://github.com/chagasdecastro">
