@@ -11,7 +11,7 @@
     interested in data analysis, python, and cloud computing ☁️
   </li>
   <li>
-    coffee, illustration, yoga & language enthusiast
+    coffee, illustration, yoga
   </li>
 </ul>
   
