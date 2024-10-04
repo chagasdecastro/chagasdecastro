@@ -5,7 +5,7 @@
     a biology scientist graduated at UFLA 🍄
   </li>
   <li>
-    computing student at UFJF & systems analysis and development student at Wyden 💻
+    systems analysis and development student at Wyden & computing student at UFJF 💻
   </li>
   <li>
     interested in data analysis, python, R, and cloud computing ☁️
